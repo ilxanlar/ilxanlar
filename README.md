@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Hi there 👋 I'm **Mehdi**, a front-end engineer with 9+ years of experience in agile software development who loves ❤️ writing clean code ✨ and building high-performance ⚡️ applications. 
+Hi there 👋 I'm **ilxanlar**, a front-end engineer with 9+ years of experience in agile software development who loves ❤️ writing clean code ✨ and building high-performance ⚡️ applications. 
 I'm currently living in the beautiful city Antalya, Turkey 🇹🇷 working as the lead front-end engineer at SAN TSG / Octopus 🐙
 
 Now... I would like to add some icons to make my profile a bit more eye-catching 😁
